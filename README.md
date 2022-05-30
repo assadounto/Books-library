@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Richmond Adu**
 
-GitHub: [@Munsa1](https://github.com/assadounto)
+GitHub: [@assadounto](https://github.com/assadounto)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
