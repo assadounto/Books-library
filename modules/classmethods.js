@@ -3,7 +3,6 @@ import * as functions from './functions.js';
 const title = document.querySelector('#title');
 const author = document.querySelector('#author');
 let myLibrary = [];
-// const storage = [];
 export default class Books {
   constructor(title, author) {
     this.title = title;
