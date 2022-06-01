@@ -2,15 +2,16 @@ const booksLibrary = document.querySelector('#booksLibrary');
 const form = document.querySelector('#newBook');
 const booksTable = document.querySelector('#booksTable');
 const contact = document.querySelector('#contact');
-export function colorCards() {
+export const colorCards = () => {
   const bookCards = booksTable.childNodes;
   for (let i = 0; i < bookCards.length; i += 1) {
     if (i % 2 !== 0) {
       bookCards[i].style.background = 'rgba(94, 87, 87, 0.671)';
     }
   }
-}
-export function addBook(book, title, author) {
+};
+
+export const addBook = (book, title, author) => {
   book.title = title;
   book.author = author;
 
@@ -55,7 +56,7 @@ export function addBook(book, title, author) {
     event.target.parentNode.remove();
     book.remove();
   });
-}
+};
 
 export const listab = () => {
   booksLibrary.style.display = 'flex';
