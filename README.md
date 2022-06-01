@@ -4,7 +4,7 @@
 
 > This project is about a book library using javascript modules
 
-![screenshot]()
+![screenshot](shot.png)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://assadounto.github.io/Books-library/)
 
 
 ## Getting Started
@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Richmond Adu**
 
-GitHub: [@Munsa1](https://github.com/assadounto)
+GitHub: [@assadounto](https://github.com/assadounto)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
