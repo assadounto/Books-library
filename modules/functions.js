@@ -57,23 +57,23 @@ export function addBook(book, title, author) {
   });
 }
 
-export function listab() {
+export const listab = () => {
   booksLibrary.style.display = 'flex';
   booksLibrary.style.width = '100%';
   booksLibrary.style.flexDirection = 'column';
   booksLibrary.style.alignItems = 'center';
   form.style.display = 'none';
   contact.style.display = 'none';
-}
+};
 
-export function addnewtab() {
+export const addnewtab = () => {
   booksLibrary.style.display = 'none';
   form.style.display = 'flex';
   contact.style.display = 'none';
-}
+};
 
-export function contacttab() {
+export const contacttab = () => {
   booksLibrary.style.display = 'none';
   form.style.display = 'none';
   contact.style.display = 'block';
-}
+};
