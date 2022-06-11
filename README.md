@@ -1,54 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+#  Project
 
-> Description the project.
+> This project is about a book library using javascript modules
 
+![screenshot](shot.png)
+
+Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 
+- CSS 
+- Javascript 
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://assadounto.github.io/Books-library/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+-Local machine web browser
+
 ### Setup
 
+-clone the repository using (https://github.com/assadounto/Books-library)
+
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+-Any HTML text approved editor, etc. VS Code, Brackets, Atom
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Richmond Adu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+GitHub: [@assadounto](https://github.com/assadounto)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -71,3 +62,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
